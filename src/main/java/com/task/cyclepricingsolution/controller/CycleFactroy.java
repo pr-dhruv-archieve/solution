@@ -1,14 +1,13 @@
 package com.task.cyclepricingsolution.controller;
 
-import com.task.cyclepricingsolution.service.CycleBuilder;
 import com.task.cyclepricingsolution.dto.Cycle;
+import com.task.cyclepricingsolution.service.CycleBuilder;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
-
-import java.util.Arrays;
 
 /**
  * @author Mahendra Prajapati
@@ -23,8 +22,7 @@ public class CycleFactroy {
 
     @PostMapping("/getCyclePrice")
     public ResponseEntity<?> getCyclesPrice(@RequestBody Cycle[] cycles) {
-        System.out.println(Arrays.toString(cycles));
-        return null;
+        return new ResponseEntity<>(cycleBuilder.getCyclePrice(cycles), HttpStatus.OK);
     }
 
 }

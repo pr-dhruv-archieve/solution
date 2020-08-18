@@ -1,9 +1,14 @@
 package com.task.cyclepricingsolution.service;
 
+import com.task.cyclepricingsolution.dto.Cycle;
 import org.springframework.stereotype.Service;
 
 import java.util.HashMap;
 import java.util.Map;
+import java.util.concurrent.BlockingQueue;
+import java.util.concurrent.ConcurrentHashMap;
+import java.util.concurrent.ConcurrentMap;
+import java.util.concurrent.LinkedBlockingQueue;
 
 /**
  * @author Mahendra Prajapati
@@ -13,10 +18,19 @@ import java.util.Map;
 @Service
 public class CycleBuilder {
 
-    public Map<String, Double> getCyclePrice() {
-        Map<String, Double> cyclePrice = new HashMap<>();
+    public ConcurrentMap<String, Double> getCyclePrice(Cycle[] cycles) {
+        ConcurrentMap<String, Double> cyclePrice = new ConcurrentHashMap<>();
+        BlockingQueue<Cycle> queue = new LinkedBlockingQueue<>(10);
 
-        
+        for (int i = 1; i < cycles.length; i++) {
+            new Thread( new ResultProducer(queue,cycles[i])).start();
+        }
+
+        for (int j = 0; j < cycles.length; j++) {
+            new Thread( new ResultConsumer(queue, cyclePrice)).start();
+        }
+
+        return  cyclePrice;
     }
 
 }
