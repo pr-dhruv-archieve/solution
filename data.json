@@ -1,0 +1,2547 @@
+    [
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },{
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },{
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },{
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },{
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },{
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },{
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },{
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },{
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },{
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },{
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },{
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },{
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },{
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },{
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },{
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },{
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },{
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },{
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },{
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },{
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },{
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },{
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },{
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },{
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },{
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },{
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },{
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },{
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },{
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        },
+        {
+            "frame": {
+                "material": "steel"
+            },
+            "handleBar": {
+                "material": "steel"
+            },
+            "seat": {
+                "material": "rubber"
+            },
+            "wheel" : {
+                "spokeType" : "steel",
+                "numberOfSpokes" : "5",
+                "rimThickness" : 17.0,
+                "rimType" : "steel",
+                "tireType" : "tubeless"
+            },
+            "chain" : {
+                "containsGreas": true,
+                "numberOfGears" : 5
+            }
+        }
+    ]
