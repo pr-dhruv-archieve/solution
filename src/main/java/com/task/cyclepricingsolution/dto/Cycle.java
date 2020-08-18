@@ -22,15 +22,26 @@ public class Cycle {
     @JsonProperty("seat")
     public Seat seat;
 
-    @JsonProperty("wheels")
-    public Wheel wheels;
+    @JsonProperty("wheel")
+    public Wheel wheel;
 
     @JsonProperty("chain")
     public Chain chain;
 
     // Final Price of the Cycle
     public double getCyclePrice() {
-        return frame.getFramePrice() + handleBar.getHandleBarPrice() + seat.getSeatPrice() + wheels.getWheelPrice() + chain.getChainPrice();
+        Double price = 0.0;
+        if(frame != null)
+            price += frame.getFramePrice();
+        if(handleBar != null)
+            price += handleBar.getHandleBarPrice();
+        if(seat != null)
+            price += seat.getSeatPrice();
+        if(wheel != null)
+            price += wheel.getWheelPrice();
+        if(chain != null)
+            price += chain.getChainPrice();
+        return price;
     }
 
 

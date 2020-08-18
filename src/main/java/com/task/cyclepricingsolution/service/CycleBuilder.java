@@ -22,14 +22,15 @@ public class CycleBuilder {
         ConcurrentMap<String, Double> cyclePrice = new ConcurrentHashMap<>();
         BlockingQueue<Cycle> queue = new LinkedBlockingQueue<>(10);
 
-        for (int i = 1; i < cycles.length; i++) {
+        for (int i = 0; i < cycles.length; i++) {
             new Thread( new ResultProducer(queue,cycles[i])).start();
-        }
-
-        for (int j = 0; j < cycles.length; j++) {
             new Thread( new ResultConsumer(queue, cyclePrice)).start();
         }
+/*
+        for (int j = 0; j < cycles.length; j++) {
 
+        }
+*/
         return  cyclePrice;
     }
 

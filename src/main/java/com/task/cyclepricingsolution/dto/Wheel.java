@@ -34,7 +34,7 @@ public class Wheel {
         spokePriceMap.put("steel", 10.0);
         spokePriceMap.put("iron", 6.0);
 
-        rimPriceMap = new HashMap<>();;
+        rimPriceMap = new HashMap<>();
         rimPriceMap.put("Steel", 10.0);
         rimPriceMap.put("iron", 6.0);
 
